@@ -1,0 +1,10 @@
+{
+  "name": "My Private Repo",
+  "extensions": [
+    {
+      "name": "PrivateMedia",
+      "version": "1.0.0",
+      "zip": "https://raw.githubusercontent.com/Kizu78/erome/main/MyPlugin.zip"
+    }
+  ]
+}
